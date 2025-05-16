@@ -1,1 +1,1 @@
-Logseq To Siyuan extractor
+Logseq To SiYuan extractor
